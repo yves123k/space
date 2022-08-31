@@ -1,0 +1,1 @@
+reponse=['Bonjour','comment allez vous','Que puis je faire pour vous','faites 3 min de marche par jour','bonne chance monsieur']

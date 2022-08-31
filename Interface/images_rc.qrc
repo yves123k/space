@@ -1,0 +1,63 @@
+<RCC>
+  <qresource prefix="im">
+    <file>../images/images/th (1).jpg</file>
+    <file>../images/images/th (2).jpg</file>
+    <file>../images/images/th (3).jpg</file>
+    <file>../images/images/background.png</file>
+    <file>../images/images/calendar.svg</file>
+    <file>../images/images/cog.svg</file>
+    <file>../images/images/dashboard.svg</file>
+    <file>../images/images/Girl-dancer-scaled.jpg</file>
+    <file>../images/images/girl-g65e6d80c5_640.jpg</file>
+    <file>../images/images/healthcare.png</file>
+    <file>../images/images/icons8-admin-settings-male-16.png</file>
+    <file>../images/images/icons8-call-32.png</file>
+    <file>../images/images/icons8-downloading-updates-16.png</file>
+    <file>../images/images/icons8-health-book-48.png</file>
+    <file>../images/images/icons8-lock-database-50.png</file>
+    <file>../images/images/icons8-logout-rounded-down-50.png</file>
+    <file>../images/images/icons8-male-user-48.png</file>
+    <file>../images/images/icons8-topic-30.png</file>
+    <file>../images/images/icons8-video-call-32.png</file>
+    <file>../images/images/menu.svg</file>
+    <file>../images/images/OIP (1).jpg</file>
+    <file>../images/images/OIP (2).jpg</file>
+    <file>../images/images/OIP.jpg</file>
+    <file>../images/images/people-girl.jpg</file>
+    <file>../images/images/R.png</file>
+    <file>../images/images/smiley.jpg</file>
+    <file>../images/images/th.jpg</file>
+    <file>../images/images/Triangle.png</file>
+    <file>../images/images/Triangle_YES.png</file>
+    <file>../images/images/undraw_fitness_stats_sht6.svg</file>
+    <file>../images/images/undraw_mindfulness_scgo.svg</file>
+    <file>../images/images/undraw_teacher_re_sico.svg</file>
+    <file>../images/images/undraw_yoga_re_i5ld.svg</file>
+    <file>../images/images/view.png</file>
+    <file>../images/images/icons8-call-32.png</file>
+    <file>../images/images/icons8-video-call-32.png</file>
+    <file>../images/images/OIP.jpg</file>
+    <file>../images/images/Triangle.png</file>
+    <file>../images/images/Triangle_YES.png</file>
+    <file>../images/images/background.png</file>
+    <file>../images/images/icons8-downloading-updates-16.png</file>
+    <file>../images/images/icons8-admin-settings-male-16.png</file>
+    <file>../images/images/icons8-lock-database-50.png</file>
+    <file>../images/images/calendar.svg</file>
+    <file>../images/images/cog.svg</file>
+    <file>../images/images/dashboard.svg</file>
+    <file>../images/images/Girl-dancer-scaled.jpg</file>
+    <file>../images/images/healthcare.png</file>
+    <file>../images/images/icons8-health-book-48.png</file>
+    <file>../images/images/icons8-logout-rounded-down-50.png</file>
+    <file>../images/images/icons8-topic-30.png</file>
+    <file>../images/images/menu.svg</file>
+    <file>../images/images/OIP (1).jpg</file>
+    <file>../images/images/R.png</file>
+    <file>../images/images/undraw_fitness_stats_sht6.svg</file>
+    <file>../images/images/undraw_mindfulness_scgo.svg</file>
+    <file>../images/images/undraw_teacher_re_sico.svg</file>
+    <file>../images/images/undraw_yoga_re_i5ld.svg</file>
+    <file>../images/images/view.png</file>
+  </qresource>
+</RCC>
