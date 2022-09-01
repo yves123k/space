@@ -8,8 +8,6 @@ from Interface import icons_rc,images_rc
 import sqlite3
 
 from Configure.creat_table import *
-from PySide6.QtCore import *
-from PySide6.QtGui import *
 from random import randint
 import json
 import os
